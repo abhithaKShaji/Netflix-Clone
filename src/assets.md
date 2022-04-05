@@ -4,6 +4,8 @@ nav-avatar='https://i.pinimg.com/originals/0d/dc/ca/0ddccae723d85a703b798a5e682c
 
 banner='https://wallpaperaccess.com/full/2703652.png
 
+background-image='https://assets.nflxext.com/ffe/siteui/vlv3/d0982892-13ac-4702-b9fa-87a410c1f2da/db219e1b-a9a8-43d7-befa-723b8a6164c1/IN-en-20220321-popsignuptwoweeks-perspective_alpha_website_large.jpg'
+
 card = 'https://images.squarespace-cdn.com/content/v1/59232e19579fb3fa44a693c2/1589212826160-UM9PEPGOS3OJPR0FJ81X/ke17ZwdGBToddI8pDm48kHZUaJeKzodyg_sXWBMxNTdZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxCBUU7B-_SAG1kGvCwYgmUjQXvn8_OJjtz3K1llMQBa1MPsuSXPSY3X-tgg78M7lI/SKOyqL1qFLIhbK6ho2lB-696x975.jpg?format=1500w'
 
 //////////////////////////////////////////////////////////////API's//////////////////////////////////////////////////////////////////////////
