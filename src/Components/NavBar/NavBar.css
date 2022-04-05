@@ -18,6 +18,10 @@
     right: 20px;
     width: 30px;
 }
+.avatar:hover{
+    cursor: pointer;
+}
+
 ul{
     list-style: none;
 }
