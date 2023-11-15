@@ -18,7 +18,7 @@ function Signin() {
   const handleSignup = (e)=>{
     e.preventDefault()
     createUserWithEmailAndPassword(auth,email,password).then((userCredential)=>{
-      const user = userCredential.user
+      //const user = userCredential.user
       alert("You have signed up successfully")
     }).catch((err)=>{
       console.log(err.message);
@@ -29,7 +29,7 @@ function Signin() {
     e.preventDefault()
     signInWithEmailAndPassword(auth,emailRef.current.value,passwordRef.current.value).then((userCredential)=>{
       console.log(userCredential);
-      const user = userCredential.user
+     // const user = userCredential.user
       Navigate('/homepage')
     }).catch((err)=>{
       alert(err.message);
